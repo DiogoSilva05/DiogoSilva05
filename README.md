@@ -1,7 +1,7 @@
 # Welcome to my school account, I’m Diogo Gramunha 🙂 (@DiogoGramunha)
 
 <div align="center">
-  <img src="https://camo.githubusercontent.com/3d43add4d4bf45bf53baf2354be2b4fcb731e5c7c1984399c775858f80000d1c/68747470733a2f2f7777772e696968676c6f62616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30322f64637361642d312e676966" height="300" width="500"/>
+  <img src="https://i.imgur.com/nlmzuXc.png" width="400"/>
 </div>
 
 <!--
